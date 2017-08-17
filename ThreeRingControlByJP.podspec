@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ThreeRingControlByJP"
-  s.version      = “1.0.0”
+  s.version      = "1.0.0"
   s.summary      = "A three-ring control like the Activity status bars"
 
   # This description is used to generate tags and improve search results.
