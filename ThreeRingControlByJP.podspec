@@ -91,7 +91,7 @@ Pod::Spec.new do |s|
   #
 
   # s.source_files  = "Classes", "Classes/**/*.{h,m}"
-  s.source_files = "ThreeRingControlByJP”, "ThreeRingControlByJP/**/*.{h,m,swift}"
+  s.source_files = "ThreeRingControlByJP", "ThreeRingControlByJP/**/*.{h,m,swift}"
   	
   s.exclude_files = "Classes/Exclude"
 
