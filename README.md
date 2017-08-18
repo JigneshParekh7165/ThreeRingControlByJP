@@ -2,7 +2,7 @@
 A three-ring control like the Activity status bars.
 
 # Example
-To run the example project, clone the repo, and run pod install from the Example directory first..
+To run the ThreeRingControlByJP project, clone the repo, and run pod install from the Example directory first..and help of www.raywenderlich.com to create such wonderful pod. and how to generate with step by step. Thank You Raywenderlich. amazing website.
 
 # Requirements
 # Installation
