@@ -12,6 +12,7 @@ Pod::Spec.new do |s|
   s.source_files = "ThreeRingControlByJP", "ThreeRingControlByJP/**/*.{h,m,swift}"
   s.exclude_files = "Classes/Exclude"
   s.resources    = "ThreeRingControlByJP/*.mp3"
+  s.requires_arc = true
   # This line helps the application project understand that this pod’s code was written for Swift 3.
   s.pod_target_xcconfig = { 'SWIFT_VERSION' => '3' }
 end
