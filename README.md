@@ -8,7 +8,13 @@ To run the ThreeRingControlByJP project, clone the repo, and run pod install fro
 # Installation
 iOSViews is available through [CocoaPods]. To install it, simply add the following line to your Podfile:
 ```
-pod "ThreeRingControlByJP" 
+platform :ios, '10.0'
+
+target 'Test1' do
+  use_frameworks!
+  pod "ThreeRingControlByJP" 
+end
+ 
 ```
 
 # Author
